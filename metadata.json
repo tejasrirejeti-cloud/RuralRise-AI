@@ -1,0 +1,6 @@
+{
+  "name": "RuralRise AI",
+  "description": "Production-oriented rural entrepreneurship intelligence platform for Warangal, Telangana. Explore grounded micro-enterprise opportunities, calculate feasibility, discover verified government schemes, and build actionable business plans in English and Telugu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
