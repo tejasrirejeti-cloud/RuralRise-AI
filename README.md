@@ -38,7 +38,7 @@
 - [🗺️ Roadmap](#️-roadmap)
 - [📚 Documentation](#-documentation)
 - [🤝 Contributing](#-contributing)
-- [👥 Project Team](#-project-team)
+- [👩‍💻 Project Creator](#-project-creator)
 - [📄 License](#-license)
 
 ---
@@ -279,13 +279,9 @@ Recommended screenshots:
 - Opportunity matching results
 - Responsive mobile layout
 
-To add a screenshot, save the image in a repository folder such as `docs/screenshots/`, then reference it:
-
-```markdown
-![RuralRise AI homepage](docs/screenshots/homepage.png)
-```
-
-Only use screenshots of the real application. Do not present mockups as live functionality.
+<p align="center">
+  <img src="homepage.png" alt="RuralRise AI homepage" width="900">
+</p>
 
 ## 🗺️ Roadmap
 
